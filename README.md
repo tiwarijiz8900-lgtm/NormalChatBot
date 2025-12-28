@@ -1,4 +1,4 @@
-# 🤖 Premium ChatBot – Smart & Simple Telegram Bot  
+hu# 🤖 Premium ChatBot – Smart & Simple Telegram Bot  
 
 A clean and simple **Telegram ChatBot** with a premium UI.  
 
@@ -8,6 +8,6 @@ A clean and simple **Telegram ChatBot** with a premium UI.
 
 Click the button below to deploy this bot directly to Heroku 👇  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/NormalChatBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tiwarijiz8900-lgtm/NormalChatBot)
 
 ---
